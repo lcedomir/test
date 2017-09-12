@@ -16,6 +16,17 @@ Horizontal rule:
 
 ---
 
+
+![StudentHire Scheme](/StudentHire_scheme.png)
+Format: ![Alt Text](url)
+
+
+
+
+
+
+
+
 Bullet list:
 
   * apples
