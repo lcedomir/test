@@ -17,7 +17,7 @@ Horizontal rule:
 ---
 
 
-![StudentHire Scheme](/StudentHire_scheme.png)
+![StudentHire Scheme](StudentHire_scheme.png)
 Format: ![Alt Text](url)
 
 
