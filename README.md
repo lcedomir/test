@@ -12,8 +12,9 @@ line break.
 
 Text attributes _italic_, *italic*, __bold__, **bold**, `monospace`.
 
-Horizontal rule:
-
+### StudentHire scheme|test|
+---|---|
+test2| test2 |
 ---
 
 
