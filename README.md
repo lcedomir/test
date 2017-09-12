@@ -78,6 +78,7 @@ resources.
 -The messaging page for the students should be almost identical to the messaging page of
 upwork. (See picture below)
 
+![StudentHire Scheme](test/messaging_upwork_example.png)
 
 
 
