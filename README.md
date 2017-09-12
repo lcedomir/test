@@ -12,9 +12,9 @@ line break.
 
 Text attributes _italic_, *italic*, __bold__, **bold**, `monospace`.
 
-### StudentHire scheme|test|
----|---|
-test2| test2 |
+StudentHire scheme | test |
+--- |--- |
+test2 | test2 |
 ---
 
 
