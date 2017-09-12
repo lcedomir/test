@@ -80,8 +80,6 @@ upwork. (See picture below)
 
 ![upwork_example](messaging_upwork_example.png)
 
-
-
 -Also if you are invited to a job by a client you should be able to message the homeowner back.
 -It needs to have an instant chat like feel where you can message back and forth quite quickly.
 -This should be listed as “Messages” on the top bar after you have signed in as a student.
@@ -93,5 +91,6 @@ the student. Again very similar to upwork in this regard. (See example screen sh
 -Text message to student when they are accepted for a job - all of employers contact info so
 they can call or text them right away.
 
+test
 
 
