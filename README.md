@@ -79,7 +79,7 @@ more invested as they go.
 the job request form that would be great.
 -Also as a type of vetting process, employers posting in home jobs would need to link their accounts to their social media accounts and phone number in order to post a job.
 
-***Job Request form
+**Job Request form**
 
 -This form is the start of the person’s experience on the site and needs to be simple and well
 laid out. There needs to be a bar underneath the main bar highlighting which stage of
@@ -287,7 +287,7 @@ is paid for a job), etc. automatically
 could work)
 
 
-##Reviews
+## Reviews
 
 - needs to be more than just 5 stars
 - students ranking needs to be based partly on opinion, slightly on unbiased facts
