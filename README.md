@@ -2,7 +2,7 @@
 
 ## Website Outline
 
-![StudentHire Roles](roles.png)
+![StudentHire Roles](roles2.png)
 
 
 ![StudentHire Scheme](StudentHire_scheme.png)
