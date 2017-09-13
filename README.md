@@ -91,7 +91,7 @@ the student. Again very similar to upwork in this regard. (See example screen sh
 -Text message to student when they are accepted for a job - all of employers contact info so
 they can call or text them right away.
 
-![] (messaging_upwork_example2.png)
+![] (/messaging_upwork_example2.png)
 
 ### My Jobs
 -You should have a jobs page where you can view all of the current jobs that you have open as
