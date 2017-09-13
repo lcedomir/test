@@ -67,6 +67,19 @@ can do to improve it
 -Or, start profile creation with easy stuff and slowly get to more complicated stuff so they get
 more invested as they go.
 
+### Employers
+
+-I really like the way that AskforTask handles its sign ups. If we could almost integrate this with
+the job request form that would be great.
+-Also as a type of vetting process, employers posting in home jobs would need to link their accounts to their social media accounts and phone number in order to post a job.
+
+Job Request form
+-This form is the start of the person’s experience on the site and needs to be simple and well
+laid out. There needs to be a bar underneath the main bar highlighting which stage of
+progression the person is at on the site. Post a Job → Go through Applicants → Hire a Student
+etc… Similar to Upwork again (See screenshot below)
+
+
 
 ## Students
 ### My Jobs
@@ -82,16 +95,21 @@ can enter in hours worked).
 -Once submitted the employer would then have the opportunity to review hours worked and
 confirm or dispute.
 
-When you are selected for a job
+**When you are selected for a job
+
 -When you are selected for a job, set up a feature that sends a text to the students phone that
 says “You have been successfully hired for ___________ job. The employers name is
 __________ and their contact information is ___________. Please contact them immediately to
 go and complete the job. Thanks.”
-Improve your profile
+
+**Improve your profile
+
 -There should maybe be a place that you can post about improving your profile. Which then
 lists ways that you can improve your profile and land more jobs.
 - LinkedIn style profile improvement
-Payment
+
+**Payment
+
 -There needs to be a payment section where you must sign into your paypal account in order to
 properly link it to your account so that you can get paid.
 -Need to verify the paypal account before you can apply for a job
@@ -103,7 +121,9 @@ work is done
 -maybe have a system where all the money a student earns is stored in their account until they
 are ready to cash out, they can click “cash out” and that will send their money to a paypal
 account
-Student Resources
+
+**Student Resources
+
 -This should be a place where students can go and view all of the different resources available
 to them. Student discounts, great sites for students to get help on canva, studentuniverse etc..
 basically it can be a blog submitted by the students to help each other out in finding awesome
