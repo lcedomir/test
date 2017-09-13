@@ -79,7 +79,7 @@ more invested as they go.
 the job request form that would be great.
 -Also as a type of vetting process, employers posting in home jobs would need to link their accounts to their social media accounts and phone number in order to post a job.
 
-** Job Request form
+***Job Request form
 
 -This form is the start of the person’s experience on the site and needs to be simple and well
 laid out. There needs to be a bar underneath the main bar highlighting which stage of
@@ -132,20 +132,20 @@ can enter in hours worked).
 -Once submitted the employer would then have the opportunity to review hours worked and
 confirm or dispute.
 
-**When you are selected for a job
+***When you are selected for a job
 
 -When you are selected for a job, set up a feature that sends a text to the students phone that
 says “You have been successfully hired for ___________ job. The employers name is
 __________ and their contact information is ___________. Please contact them immediately to
 go and complete the job. Thanks.”
 
-**Improve your profile
+***Improve your profile
 
 -There should maybe be a place that you can post about improving your profile. Which then
 lists ways that you can improve your profile and land more jobs.
 - LinkedIn style profile improvement
 
-**Payment
+***Payment
 
 -There needs to be a payment section where you must sign into your paypal account in order to
 properly link it to your account so that you can get paid.
@@ -159,7 +159,7 @@ work is done
 are ready to cash out, they can click “cash out” and that will send their money to a paypal
 account
 
-**Student Resources
+***Student Resources
 
 -This should be a place where students can go and view all of the different resources available
 to them. Student discounts, great sites for students to get help on canva, studentuniverse etc..
@@ -229,13 +229,13 @@ basically it can be a blog submitted by the students to help each other out in f
 resources.
 
 ## Employers
-**Messaging
+***Messaging
 
 - The next step would be the messaging stage where it would take you to the inviting of
 students and then receiving of proposals and then messaging those students.
 - The messaging would be exact same as student’s side of things.
 
-**My Jobs
+***My Jobs
 
 -There should be a place where the homeowner can view all past and previous jobs that they
 posted.
@@ -247,7 +247,7 @@ time to get rid of older jobs that are just sitting there on the site.
 - Needs to be very clear to a student when they have been hired for a job
 - students need to know not to do a job before being hired
 
-**Finding Students
+***Finding Students
 
 -This should be a tab where the homeowner can actively search for students who may have
 applicable experience and they could invite them to join. There needs to be a filter section
@@ -256,21 +256,21 @@ while going through the students. Sort them by experience, by school, by gender 
 
 ## Backend
 
-**Messaging
+***Messaging
 
 -You need to be able to view messages that are sent between users very simply and
 straightforward.
 -Also if there could be a system implemented to highlight messages that contain any flagged
 words (Email, phone number, cash or money etc…)
 
-**Users
+***Users
 
 -Simple interface to view profiles. View documents that are attached with profiles (ie student
 i.d. or course schedules etc..)
 -View Facebook logins on profiles.
 -Allow for manual implementation of reviews by admin accounts.
 
-**Jobs
+***Jobs
 
 -Compile and export all the data on the jobs (number of applicants per job, job post views,
 average cost of job, number of jobs with/without applicants, number of jobs completed
@@ -279,7 +279,7 @@ through the site, number of jobs that were not completed,e tc.)
 software as jobs are completed.
 -Create graphs for projections of growth based on past history.
 
-**Accounting
+***Accounting
 
 - Create all invoices (every time an applicant is accepted), expenses (every time a student
 is paid for a job), etc. automatically
