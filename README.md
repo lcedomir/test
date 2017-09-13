@@ -2,6 +2,9 @@
 
 ## Website Outline
 
+![StudentHire Roles](roles.png)
+
+
 ![StudentHire Scheme](StudentHire_scheme.png)
 
 ### Static Pages:
@@ -33,6 +36,38 @@ would provide the content on this.
 ### FAQ
 -We would need a frequently asked questions page (we would provide the content).
 
+
+
+## Sign Up form
+### Students
+
+![text](signup_form.png)
+
+-Step by Step sign up form, very similar to the one that Upwork has for their freelancers.
+
+![text](signup_form2.png)
+
+![text](signup_form3.png)
+
+![text](signup_form4.png)
+
+-Put all the easy information in the front of the form and then the more difficult stuff in the
+back.
+-Verification email sent to your school email address. Verify to complete sign up.
+-Name, School attending, program.
+-Provide an overview box where they can type a few things about themselves.
+-Work experience section.
+-Relatable classes that they’ve taken
+-Portfolio for Photography and graphic design students. (If they can post folders to this that
+would be great).
+-Also any skills or certifications they have.
+-Student ID verification
+-LinkdIn type profile creation - show how good your profile is as a percentage, show what you
+can do to improve it
+-Or, start profile creation with easy stuff and slowly get to more complicated stuff so they get
+more invested as they go.
+
+
 ## Students
 ### My Jobs
 -You should have a jobs page where you can view all of the current jobs that you have open as
@@ -46,6 +81,7 @@ how many hours that they worked and then submit that. (TaskRabbit has a feature 
 can enter in hours worked).
 -Once submitted the employer would then have the opportunity to review hours worked and
 confirm or dispute.
+
 When you are selected for a job
 -When you are selected for a job, set up a feature that sends a text to the students phone that
 says “You have been successfully hired for ___________ job. The employers name is
@@ -91,8 +127,6 @@ the student. Again very similar to upwork in this regard. (See example screen sh
 -Text message to student when they are accepted for a job - all of employers contact info so
 they can call or text them right away.
 
-![exmpl](messaging_upwork_example2.png)
-
 ### My Jobs
 -You should have a jobs page where you can view all of the current jobs that you have open as
 well as the jobs that you have applied for. The jobs that you have applied for would be taken
@@ -134,3 +168,4 @@ Student Resources
 to them. Student discounts, great sites for students to get help on canva, studentuniverse etc..
 basically it can be a blog submitted by the students to help each other out in finding awesome
 resources.
+
