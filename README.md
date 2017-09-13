@@ -1,10 +1,10 @@
 # Student Hire
 
-## Website Outline
 
+## Website Roles
 ![StudentHire Roles](roles2.png)
 
-
+## Website Outline
 ![StudentHire Scheme](StudentHire_scheme.png)
 
 ### Static Pages:
