@@ -10,6 +10,7 @@
 ### Static Pages:
 
 ### Home Page
+
 - Landing page somewhat similar to what it is now, except with a video background showing
 short snippets of a few different tasks being completed by students. Media bar visible along
 bottom and tool bar on the top.
@@ -30,15 +31,20 @@ review etc…)
 complete with a picture and where the review was taken from.)
 - The bottom bar should contain the logo, contact us, terms and conditions, address, phone
 number, email and all of our social media logos that are linked to our pages.
+
 ### About us Page
+
 -We would want an about us page that tells a little bit about our story and our team. (Again we
 would provide the content on this.
+
 ### FAQ
+
 -We would need a frequently asked questions page (we would provide the content).
 
 
 
 ## Sign Up form
+
 ### Students
 
 ![text](signup_form.png)
@@ -112,6 +118,7 @@ students and then receiving of proposals and then messaging those students.
 - The messaging would be exact same as student’s side of things.
 
 ## Students
+
 ### My Jobs
 -You should have a jobs page where you can view all of the current jobs that you have open as
 well as the jobs that you have applied for. The jobs that you have applied for would be taken
@@ -161,6 +168,7 @@ resources.
 
 
 ### Messaging Page (For Students)
+
 -The messaging page for the students should be almost identical to the messaging page of
 upwork. (See picture below)
 
@@ -178,6 +186,7 @@ the student. Again very similar to upwork in this regard. (See example screen sh
 they can call or text them right away.
 
 ### My Jobs
+
 -You should have a jobs page where you can view all of the current jobs that you have open as
 well as the jobs that you have applied for. The jobs that you have applied for would be taken
 away once the job has been assigned.
@@ -220,13 +229,13 @@ basically it can be a blog submitted by the students to help each other out in f
 resources.
 
 ## Employers
-** Messaging
+**Messaging
 
 - The next step would be the messaging stage where it would take you to the inviting of
 students and then receiving of proposals and then messaging those students.
 - The messaging would be exact same as student’s side of things.
 
-** My Jobs
+**My Jobs
 
 -There should be a place where the homeowner can view all past and previous jobs that they
 posted.
@@ -238,7 +247,7 @@ time to get rid of older jobs that are just sitting there on the site.
 - Needs to be very clear to a student when they have been hired for a job
 - students need to know not to do a job before being hired
 
-** Finding Students
+**Finding Students
 
 -This should be a tab where the homeowner can actively search for students who may have
 applicable experience and they could invite them to join. There needs to be a filter section
