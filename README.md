@@ -91,10 +91,4 @@ the student. Again very similar to upwork in this regard. (See example screen sh
 -Text message to student when they are accepted for a job - all of employers contact info so
 they can call or text them right away.
 
-test
-
-test2
-
-test3
-
-![upwork_example](signup_form.png)
+![](/signup_form4.png)
