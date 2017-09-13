@@ -73,13 +73,43 @@ more invested as they go.
 the job request form that would be great.
 -Also as a type of vetting process, employers posting in home jobs would need to link their accounts to their social media accounts and phone number in order to post a job.
 
-Job Request form
+** Job Request form
+
 -This form is the start of the person’s experience on the site and needs to be simple and well
 laid out. There needs to be a bar underneath the main bar highlighting which stage of
 progression the person is at on the site. Post a Job → Go through Applicants → Hire a Student
 etc… Similar to Upwork again (See screenshot below)
 
+![signup](signup_employers1.png)
+![signup](signup_employers2.png)
 
+-This form needs to be nearly identical to the AskForTask job request form and would give
+conditional questions based on which task was chosen.
+
+![signup](signup_employers3.png)
+
+-Also when the icons on the homepage are clicked it should take you to a job request form
+specific to the icon that was clicked.
+-It could also include a few aspects of the UpWork form as well, which deals with adding more
+than one student to the job. So posting a job looking for multiple students.
+- You should be able to choose between setting an hourly rate or setting a fixed price for the
+job.
+- I think if the homeowner doesn’t know what to pay on the job, this could be solved one of two
+ways. 1. Insert pricing suggestion feature to suggest price based on previous jobs done on the
+site that were similar. 2. Allow students to bid for selected job.
+-Recurring job feature - set the job as a weekly or monthly job, invoice sent monthly and card
+charged automatically unless cancelled.
+-Once the job has been requested it should take the homeowner to the next stage which is
+getting applicants for your job. This should bring up a list of suggested students that have
+entered in that job category on their profile (this should be somewhat random at first so that
+the same students don’t end up getting picked every time, eventually it could be based on
+reviews). Exactly like Upwork where you can then invite the students to apply for your job.
+-Will have to be based on ratings and reviews eventually, when we start it will have to
+be random so the same students dont keep getting hired.
+Messaging
+- The next step would be the messaging stage where it would take you to the inviting of
+students and then receiving of proposals and then messaging those students.
+- The messaging would be exact same as student’s side of things.
 
 ## Students
 ### My Jobs
@@ -189,3 +219,66 @@ to them. Student discounts, great sites for students to get help on canva, stude
 basically it can be a blog submitted by the students to help each other out in finding awesome
 resources.
 
+## Employers
+** Messaging
+
+- The next step would be the messaging stage where it would take you to the inviting of
+students and then receiving of proposals and then messaging those students.
+- The messaging would be exact same as student’s side of things.
+
+** My Jobs
+
+-There should be a place where the homeowner can view all past and previous jobs that they
+posted.
+-Also if the homeowner has any open jobs as well, they should be able to view those to.
+- If they have on going jobs they should be listed underneath that as well.
+-They should be able to edit jobs easily
+-Also there needs to be a feature that archives the jobs automatically after a certain period of
+time to get rid of older jobs that are just sitting there on the site.
+- Needs to be very clear to a student when they have been hired for a job
+- students need to know not to do a job before being hired
+
+** Finding Students
+
+-This should be a tab where the homeowner can actively search for students who may have
+applicable experience and they could invite them to join. There needs to be a filter section
+while going through the students. Sort them by experience, by school, by gender etc…
+- Search for a specific student by name
+
+## Backend
+
+**Messaging
+
+-You need to be able to view messages that are sent between users very simply and
+straightforward.
+-Also if there could be a system implemented to highlight messages that contain any flagged
+words (Email, phone number, cash or money etc…)
+
+**Users
+
+-Simple interface to view profiles. View documents that are attached with profiles (ie student
+i.d. or course schedules etc..)
+-View Facebook logins on profiles.
+-Allow for manual implementation of reviews by admin accounts.
+
+**Jobs
+
+-Compile and export all the data on the jobs (number of applicants per job, job post views,
+average cost of job, number of jobs with/without applicants, number of jobs completed
+through the site, number of jobs that were not completed,e tc.)
+-Seamless integration with our accounting system, so that it will update our accounting
+software as jobs are completed.
+-Create graphs for projections of growth based on past history.
+
+**Accounting
+
+- Create all invoices (every time an applicant is accepted), expenses (every time a student
+is paid for a job), etc. automatically
+- export them to quickbooks (or another accounting software, even an excel spreadsheet
+could work)
+
+
+##Reviews
+
+- needs to be more than just 5 stars
+- students ranking needs to be based partly on opinion, slightly on unbiased facts
